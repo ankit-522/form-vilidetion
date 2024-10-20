@@ -1,0 +1,19 @@
+#myform{
+    width: 60vw;
+    height: 60vh;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px auto;
+}
+
+.mb-3{
+    width: 60%;
+
+}
+
+#myform input{
+    border: 2px solid black;
+}
